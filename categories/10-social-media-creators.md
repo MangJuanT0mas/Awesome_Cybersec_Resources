@@ -34,19 +34,13 @@ Comprehensive guide to cybersecurity content creators, influencers, and educatio
 - **Followers**: 400K+
 - **Best For**: Security culture and practical tips
 
-**@RenaudMarion**
-- **Focus**: Red team operations, attack techniques, adversary simulation
-- **Content**: Operational security, attack planning, CTI analysis
-- **Level**: 🔴 Advanced
-- **Best For**: Red team methodology
-
-**@MDsec**
+**@MDsecLabs**
 - **Focus**: Research labs, offensive security, adversary research
 - **Content**: Original research, attack techniques, tooling
 - **Level**: 🔴 Advanced
 - **Best For**: Advanced offensive techniques
 
-**@peterwintrip**
+**@offsectraining**
 - **Focus**: Penetration testing, bug bounty, web security
 - **Content**: Practical testing techniques, vulnerability research
 - **Level**: 🟡 Intermediate - 🔴 Advanced
@@ -56,7 +50,7 @@ Comprehensive guide to cybersecurity content creators, influencers, and educatio
 
 ### **Blue Team & Defensive Security**
 
-**@CyberRiskOps**
+**@blueteamsec1**
 - **Focus**: Security operations, threat intelligence, incident response
 - **Content**: SOC operations, incident handling, threat hunting
 - **Level**: 🟡 Intermediate - 🔴 Advanced
